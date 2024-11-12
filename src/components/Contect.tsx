@@ -42,6 +42,7 @@ function Contact() {
                             rows={8}
                         ></textarea>
                     </div>
+                    <button className='bg-accent p-2 px-6'>Send</button>
                 </div>
             </div>
         </div>

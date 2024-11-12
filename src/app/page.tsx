@@ -1,3 +1,4 @@
+import About from "@/components/About"
 import Contect from "@/components/Contect"
 import Skills from "@/components/Skills"
 import Hero from "@/components/Hero"
@@ -9,6 +10,7 @@ export default function Home() {
       <Hero />
       <Skills />
       <Contect />
+      <About />
     </main>    
   );
 }
