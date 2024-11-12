@@ -11,7 +11,7 @@ function Hero () {
                 <div className='hidden lg:block'></div>
                 <div className='text-[80px] sm:text-[100px] font-bold leading-tight flex justify-center items-center'>
                     <div className='ml-80'>
-                        <p>I'm</p>
+                        <p>I&apos;m</p>
                         <p>Shumaila</p>
                         <p>Sarfaraz</p>
                     </div>
